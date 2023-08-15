@@ -10,7 +10,7 @@
  *   studentId: Number,
  *   grade: Number,
  * }[]} newGrades - The new grades to be given to a student.
- * @author Bezaleel Olakunori <https://github.com/B3zaleel>
+ * @author Onogwu Solomon <https://github.com/wise4lyf>
  * @returns {{id: Number, firstName: String, location: String}[]}
  */
 export default function updateStudentGradeByCity(students, city, newGrades) {
